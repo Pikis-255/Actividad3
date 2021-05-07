@@ -1,0 +1,7 @@
+El programa pacman.py es un programa obtenido de la librería freegames.
+Este juego consiste en que pacman, la bolita amarilla, se coma todas las
+bolitas sin ser atrapado por los fantasmas, las bolitas rojas, y obtener la
+mayor cantidad de puntos posible.
+Las modificaciones que se hicieron fueron las siguientes: 
+-Los fantasmas sean más listos
+
